@@ -1,5 +1,5 @@
 # Node-API
-Trata-se de uma API simples para [CRUD](https://pt.wikipedia.org/wiki/CRUD) construida utilizando **Node.js** com **MongoDB**, com uso do paradigma MVC.
+Trata-se de uma API simples para [CRUD](https://pt.wikipedia.org/wiki/CRUD) construída utilizando **Node.js** com **MongoDB**, com uso do paradigma MVC.
 
 # Passo a passo do Desenvolvimento | Instalação: 
 
