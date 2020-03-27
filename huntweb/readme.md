@@ -4,6 +4,14 @@ Ensina manipular funções, router, paginação, css, etc.
 
 Link do tutorial: https://skylab.rocketseat.com.br/node/curso-react-js/lesson/o-que-e-react-js
 
+# Telas
+
+Tela principal:
+![huntweb-tela1](https://user-images.githubusercontent.com/11994641/77727883-06736180-6fda-11ea-8a00-4822a2a8eb7f.jpg)
+
+Tela de detalhes:
+![huntweb-tela2](https://user-images.githubusercontent.com/11994641/77727988-40dcfe80-6fda-11ea-819b-1c01d9902256.jpg)
+
 
 # Desenvolvimento da aplicação:
 
